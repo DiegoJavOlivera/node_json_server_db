@@ -14,19 +14,20 @@
       ]
     },
     {
-      "0": {
-        "nombre": "Andres",
-        "apellido": "Rodriguez",
-        "materias": [
-          {
-            "nombre": "Quimica"
-          },
-          {
-            "nombre": "Biologia"
-          }
-        ]
-      },
-      "id": "31e9"
+      "id": "31e9",
+      "nombre": "Diego",
+      "apellido": "Olivera",
+      "materias": [
+        {
+          "nombre": "Quimica"
+        },
+        {
+          "nombre": "Biologia"
+        },
+        {
+          "nombre": "Fisica"
+        }
+      ]
     }
   ],
   "alumnos": [
